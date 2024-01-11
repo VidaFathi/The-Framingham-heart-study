@@ -23,3 +23,9 @@ hypothesized CHD risk factors that collected for the study:
 
 
 at the end we want to predict 'TenYearCHD'
+
+
+in training set and test set we want to calculate what percentage of the patients has chd=1 (means how many of patients in training sets have already developed chd in 10 years)
+and if the ratio were same in both sets, it means that we created our training and test data set correctly.
+
+in FraminghamTrain-->  go to Pivot tab --> we want to count variables that has been seted to 1 and 0, so categorical variables = TenYearCHD --> create pivot table -- screenshot 1
