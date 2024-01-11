@@ -28,4 +28,8 @@ at the end we want to predict 'TenYearCHD'
 in training set and test set we want to calculate what percentage of the patients has chd=1 (means how many of patients in training sets have already developed chd in 10 years)
 and if the ratio were same in both sets, it means that we created our training and test data set correctly.
 
-in FraminghamTrain-->  go to Pivot tab --> we want to count variables that has been seted to 1 and 0, so categorical variables = TenYearCHD --> create pivot table -- screenshot 1
+in FraminghamTrain-->  go to Pivot tab --> we want to count variables that has been seted to 1 and 0, so categorical variables = TenYearCHD --> create pivot table -- TrainingSet_CHD=1
+We can also normalize it  and get the percentage  out of the numbers: Normalized by --> Total --> 
+
+in FraminghamTest-->  go to Pivot tab --> we want to count variables that has been seted to 1 and 0, so categorical variables = TenYearCHD --> create pivot table -- TestSet_CHD=1
+
