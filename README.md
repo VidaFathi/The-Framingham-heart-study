@@ -1,4 +1,4 @@
-# The-Framingham-heart-study
+# The-Framingham-heart-study with Logistic Regression algorithm
 
 In this study, we aim to predict the 10-year risk of CHD (Coronary Heart Disease). CHD has been the leading cause of death worldwide since 1921, but since 1950 (after the Framingham study), age-adjusted death rates have declined by 60%. CHD is a disease of the blood vessels supplying the heart. To predict CHD, we need to evaluate risk factors that can increase the chances of the disease. These factors help us to identify important risk factors for a successful prediction of CHD.
 
